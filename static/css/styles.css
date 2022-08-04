@@ -27,7 +27,10 @@ body {
     justify-content: space-between;
   }
   .header, .list section, article { background: #fff; }
-  .banner { font-size: 4em; }
+  .banner { 
+    font-size: 4em;
+    font-family: 'Pirata One', serif; 
+  }
   .banner .text {
     display: block;
     font-family: 'Pirata One', serif;
