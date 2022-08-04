@@ -23,7 +23,7 @@ Next, all eyes are on the July nonfarm payrolls report schedule to be released F
 
 Wall Street was coming off a strong session. On Wednesday, the Dow advanced more than 400 points, while the S&P 500 hit its highest level since June. The tech-heavy Nasdaq Composite jumped about 2.5%.
 
-![Unemployment at all time lows](uploads/civilian-unemployment-ra.jpeg "Unemployment at all time lows")
+![Unemployment at all time lows](static/uploads/civilian-unemployment-ra.jpeg "Unemployment at all time lows")
 
 Investors got the green light to jump back into beaten up tech names after a surprise rebound in July services PMI and comments from St. Louis Federal Reserve President James Bullard. Bullard said he does not think the U.S. is in a recession, citing job gains and low unemployment.
 

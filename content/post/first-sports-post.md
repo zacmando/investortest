@@ -12,7 +12,7 @@ thumbnail: "uploads/hockey.jpg"
 draft: false
 ---
 
-###Jesse Puljujarvi avoided arbitration late last month with a one-year deal. Still, there's a ton of speculation about his future in Edmonton.###
+### Jesse Puljujarvi avoided arbitration late last month with a one-year deal. Still, there's a ton of speculation about his future in Edmonton. ###
 
 Edmonton Oilers winger Jesse Puljujarvi entered July ranked fifth among Daily Faceoff's top-five off-season trade targets. Avoiding arbitration by signing a one-year, $3-million contract on July 26 did little to silence the speculation.
 
